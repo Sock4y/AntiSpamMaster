@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Sock4y/AntiSpamMaster
+build-by-default: true
+branches:
+- main
+projects:
+  AntiSpamMaster:
+    path: AntiSpamMaster/
+...
